@@ -1,0 +1,10 @@
+#####
+# Sass files
+#####
+.sass-cache
+*.css.map
+
+#####
+# Vim swap files
+#####
+*.swp
